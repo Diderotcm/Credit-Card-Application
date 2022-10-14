@@ -2,8 +2,6 @@
 
 Grandes bancos comerciais hoje em dia recebem inumeras aplicações para cartão de credito as quais muitas são rejeitas e muitas são aprovadas por diversos motivos como renda, historico de credito entre outros. avaliar cada aplicação manualmente seria muitos custoso para os bancos e levaria bastante tempo. Com isso, nossa tarefa é criar um modelo de machine learning para avaliar cada futuro cliente, automatizando esse tarefa assim como os rais bancos fazer hoje em dia.
 
-<img src='201703100023430.PNG' style='width:1000px;height:500px'>
-
 O dataser utilizado foi do repositorio da UCI e esse notebook irá percorrer os seguintes passos:
 
 <li>Primeiro vamos carregar e vizualizar o conjunto de dados.</li>
